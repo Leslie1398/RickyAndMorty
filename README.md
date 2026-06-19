@@ -41,5 +41,5 @@ npm run dev
 npm run build
 ```
 
-Url
+### Url en vercel
 https://ricky-and-morty-rho.vercel.app
