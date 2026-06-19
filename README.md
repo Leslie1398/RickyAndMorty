@@ -40,3 +40,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+Url
+https://ricky-and-morty-rho.vercel.app
